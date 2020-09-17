@@ -2,7 +2,7 @@
 
 ## Computer Science Student at the University of Georgia
 
-[![Linkedin: ThomasHorn](https://img.shields.io/badge/-MianJawadAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomaswarrenhorn/)](https://www.linkedin.com/in/thomaswarrenhorn/)
+[![Linkedin: ThomasHorn](https://img.shields.io/badge/-ThomasWarrenHorn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomaswarrenhorn/)](https://www.linkedin.com/in/thomaswarrenhorn/)
 
 ### Languages / Tools:
 
