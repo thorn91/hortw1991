@@ -1,12 +1,8 @@
 ## Thomas Horn
 
-<div align="center">
-	[![Linkedin: ThomasHorn](https://img.shields.io/badge/-ThomasWarrenHorn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomaswarrenhorn/)](https://www.linkedin.com/in/thomaswarrenhorn/)
-<div>
-	
-<div align="center">
-	Fullstack Web Developer
-</div>
+[![Linkedin: ThomasHorn](https://img.shields.io/badge/-ThomasWarrenHorn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomaswarrenhorn/)](https://www.linkedin.com/in/thomaswarrenhorn/)
+
+Fullstack Web Developer
 
 ### Languages / Tools:
 
