@@ -1,4 +1,5 @@
 ## Thomas Horn
+
 <div align="center">
 	[![Linkedin: ThomasHorn](https://img.shields.io/badge/-ThomasWarrenHorn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomaswarrenhorn/)](https://www.linkedin.com/in/thomaswarrenhorn/)
 <div>
@@ -8,6 +9,7 @@
 </div>
 
 ### Languages / Tools:
+
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
